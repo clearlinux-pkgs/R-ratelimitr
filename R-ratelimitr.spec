@@ -4,7 +4,7 @@
 #
 Name     : R-ratelimitr
 Version  : 0.4.1
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/ratelimitr_0.4.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ratelimitr_0.4.1.tar.gz
 Summary  : Rate Limiting for R
